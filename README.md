@@ -3,4 +3,4 @@ Media Player Web
 
 
 Preview Here!
-https://pacetech90.github.io/mp3timur.github.io/
+https://pacetech90.github.io/mp3timur/
