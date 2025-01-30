@@ -23,6 +23,6 @@ let allMusic = [
     name: "Hilang",
     artist: "Justy Aldrin / Wizz Baker /Toton Caribo",
     img: "Justy Aldrin / Wizz Baker /Toton Caribo",
-    src: "lagu"
+    src: "lagu-4"
   }
  ];
