@@ -2,12 +2,6 @@
 
 let allMusic = [
   {
-    name: "Hilang",
-    artist: "Justy Aldrin / Wizz Baker /Toton Caribo",
-    img: "Justy Aldrin / Wizz Baker /Toton Caribo",
-    src: "lagu"
-  },
-  {
     name: "Darah Tinggi - Toton Caribo",
     artist: "Toton Caribo",
     img: "toton",
@@ -24,5 +18,11 @@ let allMusic = [
     artist: "Wizz Baker",
     img: "wizz",
     src: "lagu-1"
+  },
+  {
+    name: "Hilang",
+    artist: "Justy Aldrin / Wizz Baker /Toton Caribo",
+    img: "Justy Aldrin / Wizz Baker /Toton Caribo",
+    src: "lagu"
   }
  ];
