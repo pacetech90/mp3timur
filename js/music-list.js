@@ -2,7 +2,7 @@
 
 let allMusic = [
   {
-    name: "Hilang - Justy Aldrin / Wizz Baker /Toton Caribo",
+    name: "Hilang",
     artist: "Justy Aldrin / Wizz Baker /Toton Caribo",
     img: "Justy Aldrin / Wizz Baker /Toton Caribo",
     src: "lagu"
