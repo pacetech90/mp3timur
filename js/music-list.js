@@ -2,10 +2,10 @@
 
 let allMusic = [
   {
-    name: "Hilang",
-    artist: "Justy Aldrin / Wizz Baker /Toton Caribo",
-    img: "Justy Aldrin / Wizz Baker /Toton Caribo",
-    src: "lagu-3"
+    name: "Wizz Baker - Malam",
+    artist: "Wizz Baker",
+    img: "wizz",
+    src: "lagu-1",
   },
   {
     name: "Justy Aldrin - Luka Kanapa",
@@ -14,9 +14,9 @@ let allMusic = [
     src: "lagu-2"
   },
   {
-    name: "Wizz Baker - Malam",
-    artist: "Wizz Baker",
-    img: "wizz",
-    src: "lagu-1",
+    name: "Hilang",
+    artist: "Justy Aldrin / Wizz Baker /Toton Caribo",
+    img: "Justy Aldrin / Wizz Baker /Toton Caribo",
+    src: "lagu-3"
   }
  ];
